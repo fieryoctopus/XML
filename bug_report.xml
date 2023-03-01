@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <bug_report>
-  <text>here will be text</text>
+  <ID>number</ID>
+  <Severity>
+    <Level_1>Critical</Level_1>
+    <Level_2>Major</Level_2>
+    <Level_3>Minor</Level_3>
+    <Level_4>Trivial</Level_4>
+  <Enviroment>Description of enviroment</Enviroment>
+  <Title>Description of bug</Title>
+  <Steps>Steps to reproduse the bug</Steps>
+  <Expected_Result>Description of ER</Expected_Result>
+  <Actual_Result>Description of AR</Actual_Result>
+  <Link>Video or photo with bug</Link>
 </bug_report>
