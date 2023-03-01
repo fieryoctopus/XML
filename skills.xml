@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skills_that_I_will_learn>
+	<skill_1>Basic theory</skill_1>
+	<skill_2>What is the client-server architecture</skill_2>
+	<skill_3>HTTP methods of requests to the server</skill_3>
+	<skill_4>HTTP server response codes</skill_4>
+	<skill_5>Structures of HTTP requests and responses</skill_5>
+	<skill_6>What is JSON, XML. Their structure</skill_6>
+	<skill_7>API testing via Postman</skill_7>
+	<skill_8>Dev Tools of web browsers</skill_8>
+	<skill_9>VPN</skill_9>
+	<skill_10>Mobile testing</skill_10>
+	<skill_11>etc</skill_11>
+</skills_that_I_will_learn>
